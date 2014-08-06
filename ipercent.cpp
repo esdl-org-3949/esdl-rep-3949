@@ -2,5 +2,6 @@
 void main()
 {
 cout<<"welcome.....";
+cout<<"this is new organization";
 
 }
